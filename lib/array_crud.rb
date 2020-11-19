@@ -18,12 +18,12 @@ end
 
 def remove_element_from_end_of_array(array)
   b_names = ["bob", "bill", "bert", "brad", "arrays!"]
-  b_names.pop("arrays!")
+  b_names.pop[4]
 end
  
 def remove_element_from_start_of_array(array)
  b_names = ["wow", "bill", "bert", "brad"]
-   b_names.shift("wow")
+   b_names.shift[0]
 end
 
 def retrieve_element_from_index(array, index_number)
