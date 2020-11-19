@@ -23,7 +23,7 @@ end
  
 def remove_element_from_start_of_array(array)
  b_names = ["wow", "bill", "bert", "brad"]
-   b_names.shift(0)
+   b_names.shift('wow')
 end
 
 def retrieve_element_from_index(array, index_number)
