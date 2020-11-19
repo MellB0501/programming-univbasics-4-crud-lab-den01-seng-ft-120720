@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   b_names = ["bob", "bill", "bert", "brad", "arrays!"]
-  b_names.pop(4)
+  b_names.pop["arrays!"]
 end
  
 def remove_element_from_start_of_array(array)
